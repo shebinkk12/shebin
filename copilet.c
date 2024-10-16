@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "stdio.h"
 
 void findLargestSmallest(int arr[], int size, int *largest, int *smallest) {
     *largest = arr[0];
